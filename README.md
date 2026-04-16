@@ -1,4 +1,4 @@
-# Case Técnico – Cientista de Dados Júnior | Datarisk
+<img width="872" height="799" alt="image" src="https://github.com/user-attachments/assets/7813fee9-dae1-4165-8590-4fe6239e2672" /># Case Técnico – Cientista de Dados Júnior | Datarisk
 
 ## Apresentação
 
@@ -25,6 +25,8 @@ Os arquivos estão disponíveis na pasta `/data` e incluem:
 ## Submissão
 
 Você pode manter sua solução em um repositório pessoal para fins de portfólio, mas **a submissão oficial deve ser feita por e-mail**, conforme descrito no PDF, para garantir a **anonimidade na avaliação**.
+
+💻 A solução deve ser desenvolvida e entregue obrigatoriamente em Python.
 
 ⚠️ **Não inclua informações pessoais (nome, LinkedIn, GitHub, etc.) nos arquivos entregues.**
 
